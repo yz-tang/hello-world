@@ -1,3 +1,3 @@
 #include <iostream>
-
-cout << hellowordl << endl;
+using namespace std;
+cout << "hellowordl" << endl;
